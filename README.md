@@ -247,14 +247,3 @@ pip install yt-dlp
 * [ ] Script saved correctly
 
 If all are checked, **the script will work reliably**.
-
----
-
-If you later want:
-
-* configurable chunk size
-* auto-delete full_audio.mp3
-* batch URLs
-* ID3 tagging
-
-tell me and I’ll give you a **new full script + README update**.
